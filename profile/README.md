@@ -1,6 +1,6 @@
 # ![Domintell](https://github.com/Domintell/.github/blob/main/profile/assets/logo.png#gh-light-mode-only) ![Domintell](https://github.com/Domintell/.github/blob/main/profile/assets/logo-dark.png?raw=true#gh-dark-mode-only)
 
-**The Belgian specialist in smart and efficient buildings**
+# The Belgian specialist in smart and efficient buildings
 
 **For over twenty years**, Domintell has been the Belgian specialist in developing solutions that make buildings smart and efficient. From designing all our software to manufacturing our own electronic modules, and providing daily support for all our equipment, Domintell is unique in mastering the entire value chain and its services.
 
